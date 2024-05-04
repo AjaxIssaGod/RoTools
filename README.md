@@ -2,7 +2,7 @@
 Partial wrapper for the Roblox Web API in C#
 
 # Download / Installation
-[https://github.com/AjaxIssaGod/RoTools/releases/tag/v0.1.0](Official release)
+(https://github.com/AjaxIssaGod/RoTools/releases/tag/v0.1.0)Official release]
 
 1. Download the latest release
 2. Extract files in archive to any folder
