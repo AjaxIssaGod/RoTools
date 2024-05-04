@@ -9,6 +9,9 @@ https://github.com/AjaxIssaGod/RoTools/releases/tag/v0.1.0 - Official release
 3. Execute RoTools.exe
 4. Use the listed commands below to get started
 
+# Alternatively, 
+Use Visual Studio or your favorite code writer/compiler and use the code to compile your own version.
+
 # Commands
 user (userid) - Show user information
 
